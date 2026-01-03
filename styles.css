@@ -1,0 +1,10 @@
+.header {
+            background-color: rgb(124, 227, 126);
+            color: rgb(253, 246, 246);
+        }
+.footer {
+    background-color: silver;
+        }
+*{
+    margin:0px;
+}

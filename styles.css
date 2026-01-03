@@ -1,10 +1,14 @@
 .header {
-            background-color: rgb(124, 227, 126);
+            background-color: #7ce37e;
             color: rgb(253, 246, 246);
+            display :flex;
         }
 .footer {
     background-color: silver;
         }
 *{
     margin:0px;
+}
+.menu{
+    display : flex;
 }
